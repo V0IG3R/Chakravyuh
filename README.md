@@ -14,3 +14,7 @@ It checks for the presence of weapons in the CCTV footage. And if any weapon is 
 
 ### 3. Violence Detection:
 It checks if the people in the footage are involved in any violent activities and if so, the situation is flagged as "violence".
+
+## How to use:
+1. Using Pushbullet, put your API Key at pb = Pushbullet('Your_API_Key')
+2. Put the receiver's device ID at devices = ['Receiver_Device_ID']
